@@ -1,3 +1,5 @@
+#  Problems based on binomial distribution
+
 import math 
 
 def nCr(n,r):

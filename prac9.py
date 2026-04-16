@@ -1,3 +1,5 @@
+# Kruskal-Wallis Test
+
 from scipy import stats
 
 group1 = [65,87,73,79,81,69]

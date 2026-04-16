@@ -1,3 +1,5 @@
+# Problems based on normal distribution
+
 import matplotlib.pyplot as plt
 import numpy as np
 

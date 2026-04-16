@@ -1,3 +1,5 @@
+# Wilcoxon signed rank test
+
 import scipy.stats as rank
 
 data = [6,5,1,5,2,2,7,5,3,7,7,4]

@@ -1,3 +1,5 @@
+# Property plotting of binomial distribution
+
 import math
 import matplotlib.pyplot as plt
 
@@ -18,3 +20,7 @@ print("Mean:", n*p)
 print("Standard Deviation:", math.sqrt(n*p*p-1))
 
 plt.bar(r, BD(n,p,r))
+
+#git add .
+#git commit -m "first commit"
+#git push -u origin main
